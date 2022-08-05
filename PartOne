@@ -1,0 +1,43 @@
+<!DOCTYPE html> 
+<html>
+<head>
+<title>Lab Test 1 | C0849575</title>
+</head>
+<body style="background-image: url(assets/a1.jpeg); background-repeat: no-repeat; background-attachment: fixed; background-position: center;">
+<center>
+  <h1>Rabbit Story</h1>
+</center>
+<table  border="1" bordercolor="#dddddd" align="center" style="background-color: #ccc; opacity: 0.8;">
+  <tr>
+      <th><h1>Bunny</h1></th>
+      <th><h1>Conney</h1></th>
+      <th><h1>Rabbit</h1></th>
+  </tr>
+  <tr>
+      <td>Rabbit</th>
+      <td><p>The rabbit is a domestic animal. But they are also found in the forest. Rabbits dig burrow into the ground and live there.</p></th>
+      <td><img src="assets/a2.png" alt="" border=3 height=200 width=300></img></th>
+  </tr>
+  <tr>
+      <td>Rabbit</th>
+      <td><p>Rabbits usually graze into grass fields, and to hide from their predators, they go to their dug burrow.
+
+They are popularly called ‘Bunny.’</p></th>
+        <td><img src="assets/a3.png"" border=3 height=200 width=300></img></th>
+  </tr>
+  <tr>
+      <td>Rabbit</th>
+      <td><p>Its body is oval-shaped, having a neck and head on it.</p></th>
+        <td><img src="assets//a4.png" alt="" border=3 height=200 width=300></img></th>
+  </tr>
+  <tr>
+    <td></th>
+      <td><p>He has four legs, of which two are small, and two are big helps him in the running fast.</p></th>
+    
+  </tr>
+  <td></th>
+  <td><p>The rabbit is a domestic animal. But they are also found in the forest.A male rabbit is called “Buck,”and the female rabbit is called “Doe.” The young rabbit is known as “Kit.”</p></td>
+</tr>
+</table>
+</body>
+</html>
